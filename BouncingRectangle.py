@@ -29,8 +29,8 @@ rect_x = 50
 rect_y = 50
 
 ## Speed
-rect_speed_x = 34
-rect_speed_y = 38
+rect_speed_x = 10
+rect_speed_y = 10
 
 
 # ---------------------------
